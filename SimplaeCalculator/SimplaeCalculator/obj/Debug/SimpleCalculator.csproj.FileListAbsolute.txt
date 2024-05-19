@@ -1,0 +1,15 @@
+C:\Users\himanshu\source\repos\SimplaeCalculator\SimplaeCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\himanshu\source\repos\SimplaeCalculator\SimplaeCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\himanshu\source\repos\SimplaeCalculator\SimplaeCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\himanshu\source\repos\SimplaeCalculator\SimplaeCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\himanshu\source\repos\SimplaeCalculator\SimplaeCalculator\obj\Debug\SimplaeCalculator.Form1.resources
+C:\Users\himanshu\source\repos\SimplaeCalculator\SimplaeCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\himanshu\source\repos\SimplaeCalculator\SimplaeCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\himanshu\source\repos\SimplaeCalculator\SimplaeCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\himanshu\source\repos\SimplaeCalculator\SimplaeCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\himanshu\source\repos\SimplaeCalculator\SimplaeCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\himanshu\source\repos\SimplaeCalculator\SimplaeCalculator\bin\Debug\SimpleCalculator.exe.manifest
+C:\Users\himanshu\source\repos\SimplaeCalculator\SimplaeCalculator\bin\Debug\SimpleCalculator.application
+C:\Users\himanshu\source\repos\SimplaeCalculator\SimplaeCalculator\obj\Debug\SimpleCalculator.TrustInfo.xml
+C:\Users\himanshu\source\repos\SimplaeCalculator\SimplaeCalculator\obj\Debug\SimpleCalculator.exe.manifest
+C:\Users\himanshu\source\repos\SimplaeCalculator\SimplaeCalculator\obj\Debug\SimpleCalculator.application
